@@ -1,6 +1,6 @@
 # paymentgatway
 
-Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
+Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,PayU money button is used.
 
 For demo card use
 
